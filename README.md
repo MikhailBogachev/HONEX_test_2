@@ -7,7 +7,7 @@
 
 ```bash
 # 1. Клонировать репозиторий
-git clone <repo-url>
+git clone https://github.com/MikhailBogachev/HONEX_test_2.git
 cd parser
 
 # 2. Создать виртуальное окружение
