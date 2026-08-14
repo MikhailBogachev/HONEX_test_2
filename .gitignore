@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+output/
+*.xlsx
+*.csv
+*.json
+!run_summary_template.json
+live_data/
+synthetic_data/
+.DS_store
